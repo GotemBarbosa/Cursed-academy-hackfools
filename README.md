@@ -4,6 +4,12 @@ Cursed academy is a react-typescript application developed during [USPcodelab](h
 <br>
 The team proposed a school website with horror-paranormal classes, where members like Michael Myers could learn too, after all, everyone deserves a quality education.
 
+## Members
+Arts, interface and project in general...
+* [Beazzzuz](https://github.com/beazzzuz)<br>
+* [Zero](https://github.com/thzero0)
+* [JustTheHero](https://github.com/JustTheHero)
+
 ## How to run
 * You must have nodejs in your machine.
 
